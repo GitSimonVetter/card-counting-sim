@@ -10,3 +10,5 @@ To Do:
 -player hand
 -deal
 -push bust dealer win player win
+-if face card up proove if blackjack
+-blackjack player prove if dealer also blackjack
