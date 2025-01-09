@@ -9,3 +9,4 @@ To Do:
 -dealer hand
 -player hand
 -deal
+-push bust dealer win player win
