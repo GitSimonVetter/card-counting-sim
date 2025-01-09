@@ -16,5 +16,10 @@ namespace card_counting_sim
         {
             InitializeComponent();
         }
+
+        private void btSettings_Click(object sender, EventArgs e)
+        {
+            pnSettings.Show();
+        }
     }
 }
